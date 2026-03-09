@@ -4,11 +4,11 @@
 // Spring 2026
 // Project 1: Doubly Linked List
 // Due Date: March 10, 2026, Tuesday
-// Name:
-// ID (Last 4 Digits):
-// Description of the Program (2-3 sentences):
-// Date Written:
-// Date Revised:
+// Name: Lawson Black
+// ID (Last 4 Digits): 9680
+// Description of the Program (2-3 sentences): This program implements a doubly linked list data structure. It allows for adding nodes to the front and back of the list, as well as drawing the list to display its contents. The program demonstrates the functionality of the doubly linked list by creating nodes with specific values and adding them to the list in various ways.
+// Date Written: 3/9/2026
+// Date Revised: 3/9/2026
 #include <iostream>
 using namespace std;
 
