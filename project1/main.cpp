@@ -1,3 +1,14 @@
+// University of Arkansas at Little Rock
+// Department of Computer Science
+// CPSI 28003 - 01 and 9S1: Algorithms
+// Spring 2026
+// Project 1: Doubly Linked List
+// Due Date: March 10, 2026, Tuesday
+// Name:
+// ID (Last 4 Digits):
+// Description of the Program (2-3 sentences):
+// Date Written:
+// Date Revised:
 #include <iostream>
 using namespace std;
 
